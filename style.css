@@ -1,0 +1,35 @@
+body {
+    background-color: #fcba03;
+    text-align:center
+}
+
+.container {
+    margin-top: 20vh;
+}
+
+.title {
+    font-size: 50px;
+}
+
+
+.Decrease {
+    border: solid 2px red;
+    color: red;
+    background-color: coral;
+}
+
+.reset {
+    border: solid 2px black;
+    color: blue;
+    background-color: coral;
+}
+
+.increase {
+    border: solid 2px blue;
+    color: black;
+    background-color: coral;
+}
+
+p {
+    font-size: 35px;
+}
